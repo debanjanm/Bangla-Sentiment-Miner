@@ -1,5 +1,6 @@
-import spacy
 import pickle
+
+import spacy
 
 s = spacy.load("en_core_web_sm")
 
